@@ -30,6 +30,7 @@ nav a {
 
 .image {
   border: 3px solid #0077cc;
+  width: 40%;
   padding: 8px;
   border-radius: 10px;
   margin: 10px;              
@@ -91,4 +92,6 @@ footer ul{
 }
 h1{
     text-align: center;
+
 }
+
